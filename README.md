@@ -8,7 +8,7 @@ Programming is my passion! 🚀 I'm all about diving into the world of web devel
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [NetNeoWeb](http://www.netneoweb.com/)
-* ✉️  You can contact me at [rival.moro@gmail.com](mailto:rival.moro@gmail.com)
+* ✉️  You can contact me at [netneo.web@gmail.com](mailto:netneo.web@gmail.com)
 * 🧠  I'm learning all about Backend
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Love organic farming and Crossfit
