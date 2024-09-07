@@ -35,6 +35,7 @@ together! 💻✨
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/git.png?raw=true" width="36" height="36" alt="git" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/javascript.png?raw=true" width="36" height="36" alt="js" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/mysql.png?raw=true" width="36" height="36" alt="sql" />
+<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/mongodb.png?raw=true" width="36" height="36" alt="mongodb" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/nodejs.png?raw=true" width="36" height="36" alt="nodejs" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/powerbi.png?raw=true" width="36" height="36" alt="powerbi" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/python.png?raw=true" width="36" height="36" alt="python" />
