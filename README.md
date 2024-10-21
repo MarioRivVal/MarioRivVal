@@ -19,8 +19,7 @@ together! 💻✨
 - 🌍  I'm based in Spain
 - 🖥️  See my portfolio at [NetNeoWeb](https://netneodev.netlify.app/)
 - ✉️  You can contact me at [netneo.web@gmail.com](mailto:netneo.web@gmail.com)
-- 🧠  I am learning everything about data analysis and multi-platform
-  application development.
+- 🧠  Web and Multi-platform application development.
 - 🤝  I'm open to collaborating on Interesting projects
 - ⚡  Love organic farming and Crossfit
 - 🔗 Let's connect on GitHub
@@ -29,7 +28,6 @@ together! 💻✨
 
 <div>
 <img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/logos/css3.png" width="36" height="36" alt="css" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/excel.png?raw=true" width="36" height="36" alt="excel" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/express.png?raw=true" width="36" height="36" alt="express" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/figma.png?raw=true" width="36" height="36" alt="figma" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/git.png?raw=true" width="36" height="36" alt="git" />
@@ -37,8 +35,6 @@ together! 💻✨
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/mysql.png?raw=true" width="36" height="36" alt="sql" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/mongodb.png?raw=true" width="36" height="36" alt="mongodb" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/nodejs.png?raw=true" width="36" height="36" alt="nodejs" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/powerbi.png?raw=true" width="36" height="36" alt="powerbi" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/python.png?raw=true" width="36" height="36" alt="python" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/reactjs.png?raw=true" width="36" height="36" alt="reactjs" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/sass.png?raw=true" width="36" height="36" alt="sass" />
 <img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/tailwind.png?raw=true" width="36" height="36" alt="tailwind" />
