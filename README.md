@@ -17,8 +17,8 @@ keep on evolving with each step of the journey. Let's build something amazing
 together! 💻✨
 
 - 🌍  I'm based in Spain
-- 🖥️  See my portfolio at [NetNeoWeb](https://netneodev.netlify.app/)
-- ✉️  You can contact me at [netneo.web@gmail.com](mailto:netneo.web@gmail.com)
+- 🖥️  See my portfolio at [netneo.es](https://www.netneo.es/)
+- ✉️  You can contact me at [info@netneo.es](mailto:info@netneo.es)
 - 🧠  Web and Multi-platform application development.
 - 🤝  I'm open to collaborating on Interesting projects
 - ⚡  Love organic farming and Crossfit
