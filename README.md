@@ -1,54 +1,126 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mario Valverde
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/banner-linkedin.png" alt="Netneo — Mario Valverde" width="1000"/>
+</p>
 
-## Web Developer💻
+<h1 align="center">
+  Hi, I'm Mario Valverde C.&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
+</h1>
+<h2 align="center">
+  💻 Junior FullStack Developer | Freelance | ReactJS | Node.js | Java | Applied AI | UI/UX Design
+</h2>
 
-Programming is my passion! 🚀 I'm all about diving into the world of web
-development and exploring the endless possibilities it offers. I've got my hands
-on all the important technologies. But you know what? It doesn't stop there! My
-roadmap is to become a full stack developer, because why settle for less when
-you can have it all, right?
+<p align="center">
+  <br/>
+  <a href="https://www.netneo.es" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-netneo.es-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mario-valverde-web-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mario%20Valverde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/netneo.es" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@netneo.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:info@netneo.es">
+    <img src="https://img.shields.io/badge/Email-info@netneo.es-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-😎 I'm all about the details – whether it's fine-tuning the design or optimizing
-the code for performance. I thrive on challenges and constantly seek out new
-topics to broaden my horizons.
+---
 
-So, bring it on! I'm ready to tackle whatever the tech world throws my way and
-keep on evolving with each step of the journey. Let's build something amazing
-together! 💻✨
+## 🚀 About Me
 
-- 🌍  I'm based in Spain
-- 🖥️  See my portfolio at [netneo.es](https://www.netneo.es/)
-- ✉️  You can contact me at [info@netneo.es](mailto:info@netneo.es)
-- 🧠  Web and Multi-platform application development.
-- 🤝  I'm open to collaborating on Interesting projects
-- ⚡  Love organic farming and Crossfit
-- 🔗 Let's connect on GitHub
+- 🎯 **Actively seeking** a Full‑Stack role to grow alongside a
+  multidisciplinary team.
+- 🧠 3+ years of experience building **real-world products** (freelance &
+  personal) end‑to‑end.
+- 🌱 Certified in **Full‑Stack Master’s** + **DAM** (The Power Business School).
+- 🌍 Based in **Spain**, with international experience and human leadership
+  (hotels & cruises).
+- 🎽 CrossFit addict & bio-farming enthusiast who believes in technology **with
+  purpose**.
 
-### Skills
+---
 
-<div>
-<img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/logos/css3.png" width="36" height="36" alt="css" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/express.png?raw=true" width="36" height="36" alt="express" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/figma.png?raw=true" width="36" height="36" alt="figma" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/git.png?raw=true" width="36" height="36" alt="git" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/javascript.png?raw=true" width="36" height="36" alt="js" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/mysql.png?raw=true" width="36" height="36" alt="sql" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/java.png?raw=true" width="36" height="36" alt="mongodb" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/nodejs.png?raw=true" width="36" height="36" alt="nodejs" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/reactjs.png?raw=true" width="36" height="36" alt="reactjs" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/sass.png?raw=true" width="36" height="36" alt="sass" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/tailwind.png?raw=true" width="36" height="36" alt="tailwind" />
-<img src="https://github.com/MarioRivVal/netneodev-portfolio-v1/blob/main/public/img/logos/typescript.png?raw=true" width="36" height="36" alt="typescript" />
+### 📜 Certifications & Education
+
+- 🎓 **Full‑Stack Web Development Master** — _The Power Business School_
+- 💻 **Advanced Technician in Multi‑platform App Development (DAM)** — _The
+  Power Business School_
+- ☁️ **AWS Cloud Practitioner**
+- 📊 **Google Analytics IQ**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/logos/tech.png" width="1000" alt="Git"/>
 </div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/MarioRivVal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/mario-valverde-web-developer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 💡 Featured Projects
 
-### Badges
+### Netneo Soul — AI Emotional Assistant
 
-<b>My GitHub Stats</b>
+> _Side‑project / AWS serverless_
 
-<a href="http://www.github.com/MarioRivVal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioRivVal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- **Conversational AI** (GPT‑4·o, Gemini) + **RAG** for extended context.
+- **Microservices architecture** (API Gateway + Lambda + DynamoDB).
+- Modular frontend built with **React + Vite**.
+- Automated **CI/CD pipeline** with GitHub Actions.
 
-<a href="https://github.com/MarioRivVal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioRivVal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🛠 Webs & Apps Freelance
+
+A curated selection of real projects developed under my brand **Netneo**, where
+I take full ownership: from requirement analysis to final deployment.
+
+🔹 **Turnkey solutions** for SMEs and entrepreneurs, tailored to their real
+needs.
+
+🔹 Projects built **100% from scratch**:
+
+- Requirements analysis
+- Architecture and original UI/UX design in **Figma**
+- FullStack development with React, Node.js, MongoDB/MySQL
+- Client self-managed sections (forms, blogs, portfolios, etc.)
+- SEO optimization and cloud/hosting deployment
+
+🔹 In every project, I act as **Product Owner**: planning, client communication,
+business vision, and post-launch evolution.
+
+🔹 Technology, design, and user experience aligned with real business goals.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioRivVal&show_icons=true&hide_border=true&theme=gradient"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioRivVal&hide_border=true&theme=gradient"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioRivVal&layout=compact&langs_count=10&hide_border=true&theme=gradient"/>
+</p>
+
+---
+
+## 🤝 Let's Collaborate?
+
+If your company values **initiative, curiosity, and resilience**, or if you have
+a project that needs a restless mind and hands-on code, let’s talk!
+
+> **“Creating with purpose is the only path that truly matters”** — Netneo
+> philosophy
+
+<p align="center">
+  <a href="mailto:info@netneo.es">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Send%20Email-0891B2?style=for-the-badge"/>
+  </a>
+  <a href="tel:+34642469683" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%95%91%20Book%20a%20Call-22C55E?style=for-the-badge"/>
+  </a>
+</p>
