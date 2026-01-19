@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
 </h1>
 <h2 align="center">
-  💻 Junior FullStack Developer | Freelance | ReactJS | Node.js | Java | Applied AI | UI/UX Design
+  💻 FullStack Developer | Freelance | ReactJS | Node.js | Applied AI | UI/UX Design
 </h2>
 
 <p align="center">
@@ -48,8 +48,6 @@
 - 🎓 **Full‑Stack Web Development Master** — _The Power Business School_
 - 💻 **Advanced Technician in Multi‑platform App Development (DAM)** — _The
   Power Business School_
-- ☁️ **AWS Cloud Practitioner**
-- 📊 **Google Analytics IQ**
 
 ---
 
@@ -59,19 +57,6 @@
   
   <img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/logos/tech.png" width="1000" alt="Git"/>
 </div>
-
----
-
-## 💡 Featured Projects
-
-### Netneo Soul — AI Emotional Assistant
-
-> _Side‑project / AWS serverless_
-
-- **Conversational AI** (GPT‑4·o, Gemini) + **RAG** for extended context.
-- **Microservices architecture** (API Gateway + Lambda + DynamoDB).
-- Modular frontend built with **React + Vite**.
-- Automated **CI/CD pipeline** with GitHub Actions.
 
 ---
 
