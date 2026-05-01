@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
 </h1>
 <h2 align="center">
-  💻 FullStack Developer | Freelance | ReactJS | Node.js | Applied AI | UI/UX Design
+  🚀 Product-oriented Developer building real-world applications and SaaS solutions.
 </h2>
 
 <p align="center">
@@ -29,59 +29,65 @@
 
 ---
 
-## 🚀 About Me
+### 🧠 About Me
 
-- 🎯 **Actively seeking** a Full‑Stack role to grow alongside a
-  multidisciplinary team.
-- 🧠 3+ years of experience building **real-world products** (freelance &
-  personal) end‑to‑end.
-- 🌱 Certified in **Full‑Stack Master’s** + **DAM** (The Power Business School).
-- 🌍 Based in **Spain**, with international experience and human leadership
-  (hotels & cruises).
-- 🎽 CrossFit addict & bio-farming enthusiast who believes in technology **with
-  purpose**.
+I develop digital products from idea to production, working directly with real clients and business needs.
 
----
+Currently:
+- Backend Developer at VML The Cocktail
+- Freelance under my own brand **Netneo**
 
-### 📜 Certifications & Education
+Focused on:
+- Building scalable APIs and backend systems  
+- Developing end-to-end products (frontend, backend, infrastructure)  
+- Solving real business problems through technology  
+- Using AI tools to enhance development workflows  
 
-- 🎓 **Full‑Stack Web Development Master** — _The Power Business School_
-- 💻 **Advanced Technician in Multi‑platform App Development (DAM)** — _The
-  Power Business School_
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Current Project
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/logos/tech.png" width="1000" alt="Git"/>
-</div>
+Working on a **restaurant reservation platform**, currently in production and being validated with real users.
+
+Key aspects:
+- Real-time reservation management  
+- Multi-market payments (Argentina & Brazil)  
+- Admin panel for business operations  
+- Automated communication system  
+- Scalable architecture ready for growth  
+
+---
+
+### 🛠 Tech Focus
+
+**Backend:** Node.js, NestJS, APIs  
+**Frontend:** React  
+**Databases:** MongoDB, MySQL  
+**DevOps:** Docker, CI/CD, Azure DevOps  
+**AI:** AI-assisted development, automation, experimentation  
 
 ---
 
-### 🛠 Webs & Apps Freelance
+### 💼 Freelance Work (Netneo)
 
-A curated selection of real projects developed under my brand **Netneo**, where
-I take full ownership: from requirement analysis to final deployment.
+I design and develop complete digital solutions for clients:
 
-🔹 **Turnkey solutions** for SMEs and entrepreneurs, tailored to their real
-needs.
-
-🔹 Projects built **100% from scratch**:
-
-- Requirements analysis
-- Architecture and original UI/UX design in **Figma**
-- FullStack development with React, Node.js, MongoDB/MySQL
-- Client self-managed sections (forms, blogs, portfolios, etc.)
-- SEO optimization and cloud/hosting deployment
-
-🔹 In every project, I act as **Product Owner**: planning, client communication,
-business vision, and post-launch evolution.
-
-🔹 Technology, design, and user experience aligned with real business goals.
+- Product-oriented development  
+- UX/UI design and implementation  
+- Full ownership from concept to deployment  
+- Infrastructure and hosting management  
 
 ---
+
+### 🌍 Languages
+
+Spanish & Italian (C2)  
+English & Portuguese (C1)
+
+---
+
+Always building, always improving.
 
 ## 📈 GitHub Stats
 
@@ -91,15 +97,6 @@ business vision, and post-launch evolution.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioRivVal&layout=compact&langs_count=10&hide_border=true&theme=gradient"/>
 </p>
 
----
-
-## 🤝 Let's Collaborate?
-
-If your company values **initiative, curiosity, and resilience**, or if you have
-a project that needs a restless mind and hands-on code, let’s talk!
-
-> **“Creating with purpose is the only path that truly matters”** — Netneo
-> philosophy
 
 <p align="center">
   <a href="mailto:info@netneo.es">
