@@ -62,7 +62,7 @@ Key aspects:
 ### 🛠 Tech Focus
 
 **Backend:** Node.js, NestJS, APIs  
-**Frontend:** React  
+**Frontend:** ReactJS, NextJs  
 **Databases:** MongoDB, MySQL  
 **DevOps:** Docker, CI/CD, Azure DevOps  
 **AI:** AI-assisted development, automation, experimentation  
