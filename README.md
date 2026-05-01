@@ -89,15 +89,6 @@ English & Portuguese (C1)
 
 Always building, always improving.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioRivVal&show_icons=true&hide_border=true&theme=gradient"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioRivVal&hide_border=true&theme=gradient"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioRivVal&layout=compact&langs_count=10&hide_border=true&theme=gradient"/>
-</p>
-
-
 <p align="center">
   <a href="mailto:info@netneo.es">
     <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Send%20Email-0891B2?style=for-the-badge"/>
