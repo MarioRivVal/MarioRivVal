@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarioRivVal/netneodev-portfolio-v1/main/public/img/banner-linkedin.png" alt="Netneo — Mario Valverde" width="1000"/>
+  <img src="https://res.cloudinary.com/doawz83ln/image/upload/v1787470457/banner-linkedin-v2_x8v8dn.png" alt="Netneo — Mario Valverde" width="1000"/>
 </p>
 
 <h1 align="center">
